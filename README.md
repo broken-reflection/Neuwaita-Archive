@@ -2,8 +2,6 @@
 
 ![Title](https://github.com/broken-reflection/Neuwaita-Archive/blob/main/Title.png)
 
-*(this is an archive of RusticBard's now-deleted "Neuwaita" theme)*
-
 ![Showcase](https://github.com/broken-reflection/Neuwaita-Archive/blob/main/Showcase.png)
 
 ![Mimes](https://github.com/broken-reflection/Neuwaita-Archive/blob/main/Mimes.png)
