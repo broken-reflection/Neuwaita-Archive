@@ -1,6 +1,6 @@
 # README
 
-![Title](https://github.com/broken-reflection/Neuwaita/blob/main/title.png)
+![Title](https://github.com/broken-reflection/Neuwaita/blob/main/Title.png)
 
 *(this is an archive of RusticBard's now-deleted "Neuwaita" theme)*
 
