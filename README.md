@@ -9,7 +9,7 @@
 ## Installation
 
 ### User installation:
-Copy files to `~/.local/share/icons/Neuwaita`
+Extract files to `~/.local/share/icons/Neuwaita`
 
 ### System-wide installation:
-Copy files to `/usr/share/icons/Neuwaita`
+Extract files to `/usr/share/icons/Neuwaita`
